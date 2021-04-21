@@ -67,11 +67,8 @@ color: #fff;
 {
     border-radius: 5%;
 }
-.Companies
-{
-    align-items: center;
 
+.funciones{
+    color:goldenrod;   
 }
-.my{
-    color: greenyellow;
-}
+
